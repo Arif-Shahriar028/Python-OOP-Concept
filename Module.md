@@ -33,7 +33,7 @@ print(div(a, b))
 The problems of that way is this is not so arranged code and if we add more lines in same module it will be a huge code after a while. So it is great idea to splite the code in separate modules. 
 We can create func.py and calc.py module for the above code and splite them.
 
-##In func.py :
+In **func.py** :
 ```
 def add(x, y):
 	return x+y
@@ -49,7 +49,7 @@ def div(x, y):
 
 ```
 
-##In calc.py:
+In **calc.py**:
 ```
 import func # we can import only the module by calling import
 
@@ -65,7 +65,7 @@ print(func.div(a, b))
 
 Or we can direct import all the functions of the module calling ` form func import * ` 
 
-##In calc.py:
+In **calc.py**:
 ```
 from func import *
 
