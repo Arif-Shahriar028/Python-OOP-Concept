@@ -1,4 +1,4 @@
-###Types of Variable in Python 
+**Types of Variable in Python** 
 
 We use variable to store data and these variables are called atrribute in python. In OOP concept of python we see that, an object is a instance of a class and the class is the blueprint of all of its objects. 
 
@@ -8,7 +8,7 @@ We can separate the type variable in two types , they are :
 ***Class(Static) variable*** : These variables are declared outside the __init__() method under a class. They are the common variable for all objects and their value will be same in all objects even the value changes.
 
 
-**Namespace** 
+**Namespace** <br>
 Name (also called identifier) is simply a name given to objects. Everything in Python is an object. Name is a way to access the underlying object.
 
 For example, when we do the assignment a = 2, 2 is an object stored in memory and a is the name we associate it with. We can get the address (in RAM) of some object through the built-in function id().
