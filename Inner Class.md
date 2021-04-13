@@ -99,5 +99,5 @@ dept = var.cse # assigning cse object to dept
 dept.displayStudentNo() # called 'displayStudentNo()' instance method through dept variable 
 ```
 
-
+For more about inner class follow <a href="https://www.geeksforgeeks.org/inner-class-in-python/#:~:text=We%20can%20make%20our%20code,good%20structure%20to%20our%20program.">this</a> link.
 
