@@ -7,6 +7,45 @@ We can separate the type variable in two types , they are :
 
 ***Class(Static) variable*** : These variables are declared outside the __init__() method under a class. They are the common variable for all objects and their value will be same in all objects even the value changes.
 
+***main.py***
+```
+class Iphone:
+
+	model = 12
+
+	def __init__(self, name, ram, rom):
+		self.name = name
+		self.ram = ram
+		self.rom = rom
+
+	def config(self):
+		self.printName()	
+
+	def printName(self):
+		print(f"{self.name} has iPhone {self.model} pro max which configure is {self.ram}/{self.rom}")
+
+
+# a = 'hello'
+jodu = Iphone('Jodu',4, 32)
+modhu = Iphone('Modhu',6, 128)
+Iphone.model = 11
+
+jodu.config()
+modhu.config()
+
+jodu.model = 10
+
+jodu.config()
+modhu.config()
+```
+
+***output:***
+```
+Jodu has iPhone 11 pro max which configure is 4/32
+Modhu has iPhone 11 pro max which configure is 6/128
+Jodu has iPhone 10 pro max which configure is 4/32
+Modhu has iPhone 11 pro max which configure is 6/128
+```
 
 **Namespace** <br>
 Name (also called identifier) is simply a name given to objects. Everything in Python is an object. Name is a way to access the underlying object.
