@@ -1,4 +1,4 @@
-** Class and Object **
+###Class and Object
 
 Basically, Programming is created for real-life problem solving and to enhance our work functionality. So, there must be similarities of programming concepts with real-life events! Let's start discussing class and object by a real-life example.
 
