@@ -160,3 +160,8 @@ If priority order become A -> C, then output will `class A -> addition : 30`
 
 
 For more checkout <a href="https://stackoverflow.com/questions/9575409/calling-parent-class-init-with-multiple-inheritance-whats-the-right-way">this</a> link.
+
+
+<p>
+	<a href="https://github.com/Arif-Shahriar028/Python-OOP-Concept/blob/master/Topics/Types%20of%20Methods.md">Previous (Types of Method)</a>    |    <a href="https://github.com/Arif-Shahriar028/Python-OOP-Concept/blob/master/Topics/Inner%20Class.md">Next (Inner Class)</a>
+</p>

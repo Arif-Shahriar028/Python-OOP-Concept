@@ -157,6 +157,6 @@ Because if we do not mention them as static method, object or class is passed wh
 So in `x = Student.getMulti(10, 20)`, 10 and 20 are neither class variable nor static variable.
 
 
-<a href="https://github.com/Arif-Shahriar028/Python-OOP-Concept/blob/master/Topics/Types%20of%20variable.md">Previous (Types of Variable)</a>
-
-<a href="https://github.com/Arif-Shahriar028/Python-OOP-Concept/blob/master/Topics/Inner%20Class.md">Next (Inner Class)</a>
+<p>
+	<a href="https://github.com/Arif-Shahriar028/Python-OOP-Concept/blob/master/Topics/Types%20of%20variable.md">Previous (Types of Variable)</a>    |    <a href="https://github.com/Arif-Shahriar028/Python-OOP-Concept/blob/master/Topics/Method%20Resolution%20Order.md">Next (Method Resolution Order)</a>
+</p>

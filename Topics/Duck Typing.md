@@ -84,7 +84,7 @@ Lets figure out what is happenign here:
 So if they behave as same, then they are may be same, that what duck typing says.
 
 
-<a href="https://github.com/Arif-Shahriar028/Python-OOP-Concept/blob/master/Topics/Polymorphism.md">Previous (Polymorphism)</a>
+<p>
+	<a href="https://github.com/Arif-Shahriar028/Python-OOP-Concept/blob/master/Topics/Polymorphism.md">Previous (Polymorphism)</a>    |	<a href="https://github.com/Arif-Shahriar028/Python-OOP-Concept/blob/master/Topics/Operator%20Overloading.md">Next (Operator Overloading)</a>
 
-<a href="https://github.com/Arif-Shahriar028/Python-OOP-Concept/blob/master/Topics/Operator%20Overloading.md">Next (Operator Overloading)</a>
-
+</p>

@@ -61,7 +61,7 @@ Jodu has iPhone 12 pro max which configure is 4/32
 Modhu has iPhone 12 pro max which configure is 6/128
 ```
 
-<a href="https://github.com/Arif-Shahriar028/Python-OOP-Concept/blob/master/Topics/Class%20and%20Object.md">Previous (Class and Object)</a>
-
-<a href="https://github.com/Arif-Shahriar028/Python-OOP-Concept/blob/master/Topics/Types%20of%20variable.md">Next (Types of Variable)</a>
+<p>
+	<a href="https://github.com/Arif-Shahriar028/Python-OOP-Concept/blob/master/Topics/Class%20and%20Object.md">Previous (Class and Object)</a>    |    <a href="https://github.com/Arif-Shahriar028/Python-OOP-Concept/blob/master/Topics/Module.md">Next (Module)</a>
+</p>
 

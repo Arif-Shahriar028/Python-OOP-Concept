@@ -102,6 +102,6 @@ dept.displayStudentNo() # called 'displayStudentNo()' instance method through de
 For more about inner class follow <a href="https://www.geeksforgeeks.org/inner-class-in-python/#:~:text=We%20can%20make%20our%20code,good%20structure%20to%20our%20program.">this</a> link.
 
 
-<a href="https://github.com/Arif-Shahriar028/Python-OOP-Concept/blob/master/Topics/Types%20of%20Methods.md">Previous (Types of Method)</a>
-
-<a href="https://github.com/Arif-Shahriar028/Python-OOP-Concept/blob/master/Topics/Inheritance.md">Next (Inheritance)</a>
+<p>
+	<a href="https://github.com/Arif-Shahriar028/Python-OOP-Concept/blob/master/Topics/Method%20Resolution%20Order.md">Previous (Method Resolution Order)</a>    |    <a href="https://github.com/Arif-Shahriar028/Python-OOP-Concept/blob/master/Topics/Inheritance.md">Next (Inheritance)</a>
+</p>

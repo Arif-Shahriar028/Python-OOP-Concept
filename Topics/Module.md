@@ -78,3 +78,7 @@ print(mul(a, b))
 print(div(a, b))
 
 ```
+
+<p>
+	<a href="https://github.com/Arif-Shahriar028/Python-OOP-Concept/blob/master/Topics/The%20__init__%20method.md">Previous (The __init__() Method)</a>    |    <a href="https://github.com/Arif-Shahriar028/Python-OOP-Concept/blob/master/Topics/Types%20of%20variable.md">Next (Types of Variable)</a>
+</p>

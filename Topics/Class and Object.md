@@ -115,5 +115,5 @@ We will talk more about methods later.
 
 
 <p>
-	<a href="https://github.com/Arif-Shahriar028/Python-OOP-Concept/blob/master/Topics/The%20__init__%20method.md">Next (The __init__() Method)</a> | <a href="https://github.com/Arif-Shahriar028/Python-OOP-Concept">List of Content</a>
+	<a href="https://github.com/Arif-Shahriar028/Python-OOP-Concept/blob/master/Topics/The%20__init__%20method.md">Next (The __init__() Method)</a>   |   <a href="https://github.com/Arif-Shahriar028/Python-OOP-Concept">List of Content</a>
 </p>

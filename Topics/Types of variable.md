@@ -77,6 +77,6 @@ Whenever you define a function, you create a new namespace and a new scope. The 
 The terms can be used almost interchangeably, but that's not because they mean the same thing; it's because they overlap a lot in what they imply.
 
 
-<a href="https://github.com/Arif-Shahriar028/Python-OOP-Concept/blob/master/Topics/The%20__init__%20method.md">Previous (The __init__() Method)</a>
-
-<a href="https://github.com/Arif-Shahriar028/Python-OOP-Concept/blob/master/Topics/Types%20of%20Methods.md">Next (Types of Method)</a>
+<p>
+	<a href="https://github.com/Arif-Shahriar028/Python-OOP-Concept/blob/master/Topics/Module.md">Previous (Module)</a>    |    <a href="https://github.com/Arif-Shahriar028/Python-OOP-Concept/blob/master/Topics/Types%20of%20Methods.md">Next (Types of Method)</a>
+</p>
