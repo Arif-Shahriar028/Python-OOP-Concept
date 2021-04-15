@@ -80,3 +80,8 @@ __ge__ for greater than or equal to (≥)
 
 
 For more checkout <a href="https://www.programiz.com/python-programming/operator-overloading">this</a> link.
+
+
+<a href="https://github.com/Arif-Shahriar028/Python-OOP-Concept/blob/master/Topics/Duck%20Typing.md">Previous (Duck Typing)</a>
+
+<a href="https://github.com/Arif-Shahriar028/Python-OOP-Concept/blob/master/Topics/Method%20Overloading%20and%20Overriding.md">Next (Method Overloading and Overriding)</a>

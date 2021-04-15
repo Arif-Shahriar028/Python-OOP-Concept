@@ -73,3 +73,5 @@ b.info()
 
 If class B does not have info() method, then it will search for info() in class A (as class B inherit class A) and print `method of class A`.
 
+<a href="https://github.com/Arif-Shahriar028/Python-OOP-Concept/blob/master/Topics/Operator%20Overloading.md">Previous (Operator Overloading)</a>
+

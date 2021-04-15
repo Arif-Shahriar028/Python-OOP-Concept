@@ -36,3 +36,10 @@ In the next some tutorial we will discuss about :
 3. Method Overloading
 
 4. Method Overriding
+
+
+<a href="https://github.com/Arif-Shahriar028/Python-OOP-Concept/blob/master/Topics/Inheritance.md">Previous (Inheritance)</a>
+
+
+<a href="https://github.com/Arif-Shahriar028/Python-OOP-Concept/blob/master/Topics/Duck%20Typing.md">Next (Duck Typing)</a>
+

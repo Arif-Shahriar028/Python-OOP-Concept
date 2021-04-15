@@ -133,3 +133,6 @@ method 3
 For more about inheritance checkout <a href="https://www.geeksforgeeks.org/inheritance-in-python/">this</a> link.
 
 
+<a href="https://github.com/Arif-Shahriar028/Python-OOP-Concept/blob/master/Topics/Inner%20Class.md">Previous (Inner Class)</a>
+
+<a href="https://github.com/Arif-Shahriar028/Python-OOP-Concept/blob/master/Topics/Polymorphism.md">Next (Polymorphism)</a>

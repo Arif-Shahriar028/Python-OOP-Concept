@@ -1,9 +1,9 @@
 # Types of Methods
 Methods in python are **three** types:
 
-..* Instance Method 
-..* Class Method
-..* Static Method
+* Instance Method 
+* Class Method
+* Static Method
 
 ## Instance Method :
 
@@ -155,3 +155,8 @@ Then an error will occured that:
 Because if we do not mention them as static method, object or class is passed when we call these method. When we mention them as static method they does not pass either instance variable or class variable.
 
 So in `x = Student.getMulti(10, 20)`, 10 and 20 are neither class variable nor static variable.
+
+
+<a href="https://github.com/Arif-Shahriar028/Python-OOP-Concept/blob/master/Topics/Types%20of%20variable.md">Previous (Types of Variable)</a>
+
+<a href="https://github.com/Arif-Shahriar028/Python-OOP-Concept/blob/master/Topics/Inner%20Class.md">Next (Inner Class)</a>

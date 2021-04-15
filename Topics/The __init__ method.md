@@ -1,3 +1,5 @@
+# The __init__() method
+
 Suppose we want to tell our obj that our iphone has 4/32 ram rom. We can do this at the time of object creating. 
 
 In java we see constructor and like functionality of constructior in java, Python has a method named __init__() which takes some arguments and set value to the variable as attributes of object. __init__() takes self argument must and if we want to pass custom argument, we can do. Lets see a example :
@@ -21,7 +23,7 @@ obj = Iphone(4, 32)
 obj.config()
 ```
 
-OUTPUT:
+***output:***
 `iphone 12 pro max 4/32`
 
 `obj = Iphone(4, 32)` like can be seem that we pass two arguments to the class, but actually we pass three, the object instance also.
@@ -53,8 +55,13 @@ jodu.config()
 modhu.config()
 ```
 
-OUTPUT:
+***output:***
 ```
 Jodu has iPhone 12 pro max which configure is 4/32
 Modhu has iPhone 12 pro max which configure is 6/128
 ```
+
+<a href="https://github.com/Arif-Shahriar028/Python-OOP-Concept/blob/master/Topics/Class%20and%20Object.md">Previous (Class and Object)</a>
+
+<a href="https://github.com/Arif-Shahriar028/Python-OOP-Concept/blob/master/Topics/Types%20of%20variable.md">Next (Types of Variable)</a>
+
