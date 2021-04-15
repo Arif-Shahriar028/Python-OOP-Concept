@@ -173,3 +173,98 @@
 # c = C()
 # c.method2() # can access the methods of class A
 # c.method3() # can access the methods of class B
+
+
+# x = 10
+# y = 20
+# print(x+y)
+
+# a = "Arif "
+# b = "Shahriar"
+# print(a+b)
+
+
+# class Cse:
+# 	def info(self):
+# 		print("Cse has 500 students")
+
+# class Eee:
+# 	def info(self):
+# 		print("Eee has 200 students")
+
+# class Civil:
+# 	def info(self):
+# 		print("Civil has 350 students")
+
+
+# class Varsity:
+# 	def dept(self, deptName):
+# 		deptName.info()
+
+
+# cse = Cse()
+# eee = Eee()
+# civil = Civil()
+
+# varsity = Varsity()
+
+# varsity.dept(cse)
+# varsity.dept(eee)
+# varsity.dept(civil)
+
+
+
+# a = 10
+# b = 20
+
+# print(a+b)
+
+# print(int.__add__(a, b))
+
+
+# class Student:
+# 	def __init__(self, n1, n2):
+# 		self.n1 = n1
+# 		self.n2 = n2
+
+# 	def __add__(self, other):
+# 		n1 = self.n1 + other.n1
+# 		n2 = self.n2 + other.n2
+# 		n = Student(n1, n2) # creating another object and pass n1, n2
+# 		return n # returning this object
+
+
+# s1 = Student(10, 20)
+# s2 = Student(30, 40)
+# s3 = s1+s2 # s1.__add__(s2) ,(pass two object as argument of __add__()) here s1 is self and s2 is other
+
+# print(s3.n1) 
+# print(s3.n2)
+
+
+
+# def add(a = None, b=None, c=None):
+# 	s = 0
+# 	if a!= None and b!=None and c!=None:
+# 		s = a+b+c
+# 	elif a!=None and b!=None:
+# 		s = a+b
+# 	else:
+# 		s = a
+# 	return s
+
+# print(add(1, 2))
+# print(add(1, 2, 3))
+
+
+class A:
+	def info(self):
+		print("method of class A")
+
+class B(A):
+	def info(self):
+		print(f"method of class B")
+
+
+b = B()
+b.info()
